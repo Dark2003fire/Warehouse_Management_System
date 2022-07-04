@@ -1,0 +1,357 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\hjha0\\Source\\Repos\\WMSRepo\\WMSApp\\Application\\Application.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\hjha0\\Source\\Repos\\WMSRepo\\WMSApp\\Application\\Application.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\hjha0\\Source\\Repos\\WMSRepo\\WMSApp\\Application\\Application.csproj",
+        "projectName": "Application",
+        "projectPath": "C:\\Users\\hjha0\\Source\\Repos\\WMSRepo\\WMSApp\\Application\\Application.csproj",
+        "packagesPath": "C:\\Users\\hjha0\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\hjha0\\Source\\Repos\\WMSRepo\\WMSApp\\Application\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\hjha0\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "C:\\Users\\hjha0\\Source\\Repos\\WMSRepo\\WMSApp\\DatabaseLibrary\\DatabaseLibrary.csproj": {
+                "projectPath": "C:\\Users\\hjha0\\Source\\Repos\\WMSRepo\\WMSApp\\DatabaseLibrary\\DatabaseLibrary.csproj"
+              },
+              "C:\\Users\\hjha0\\Source\\Repos\\WMSRepo\\WMSApp\\Domain\\Domain.csproj": {
+                "projectPath": "C:\\Users\\hjha0\\Source\\Repos\\WMSRepo\\WMSApp\\Domain\\Domain.csproj"
+              },
+              "C:\\Users\\hjha0\\Source\\Repos\\WMSRepo\\WMSApp\\Libraries\\WMA.Data\\WMS.Data.csproj": {
+                "projectPath": "C:\\Users\\hjha0\\Source\\Repos\\WMSRepo\\WMSApp\\Libraries\\WMA.Data\\WMS.Data.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.301\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\hjha0\\Source\\Repos\\WMSRepo\\WMSApp\\DatabaseLibrary\\DatabaseLibrary.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\hjha0\\Source\\Repos\\WMSRepo\\WMSApp\\DatabaseLibrary\\DatabaseLibrary.csproj",
+        "projectName": "DatabaseLibrary",
+        "projectPath": "C:\\Users\\hjha0\\Source\\Repos\\WMSRepo\\WMSApp\\DatabaseLibrary\\DatabaseLibrary.csproj",
+        "packagesPath": "C:\\Users\\hjha0\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\hjha0\\Source\\Repos\\WMSRepo\\WMSApp\\DatabaseLibrary\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\hjha0\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "dependencies": {
+            "Dapper": {
+              "target": "Package",
+              "version": "[2.0.78, )"
+            },
+            "Microsoft.IdentityModel.Clients.ActiveDirectory": {
+              "target": "Package",
+              "version": "[5.2.8, )"
+            },
+            "System.Data.DataSetExtensions": {
+              "target": "Package",
+              "version": "[4.5.0, )"
+            },
+            "System.Data.SqlClient": {
+              "target": "Package",
+              "version": "[4.8.2, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.301\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\hjha0\\Source\\Repos\\WMSRepo\\WMSApp\\Domain\\Domain.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\hjha0\\Source\\Repos\\WMSRepo\\WMSApp\\Domain\\Domain.csproj",
+        "projectName": "Domain",
+        "projectPath": "C:\\Users\\hjha0\\Source\\Repos\\WMSRepo\\WMSApp\\Domain\\Domain.csproj",
+        "packagesPath": "C:\\Users\\hjha0\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\hjha0\\Source\\Repos\\WMSRepo\\WMSApp\\Domain\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\hjha0\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "C:\\Users\\hjha0\\Source\\Repos\\WMSRepo\\WMSApp\\Libraries\\WMS.Core\\WMS.Core.csproj": {
+                "projectPath": "C:\\Users\\hjha0\\Source\\Repos\\WMSRepo\\WMSApp\\Libraries\\WMS.Core\\WMS.Core.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.301\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\hjha0\\Source\\Repos\\WMSRepo\\WMSApp\\Libraries\\WMA.Data\\WMS.Data.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\hjha0\\Source\\Repos\\WMSRepo\\WMSApp\\Libraries\\WMA.Data\\WMS.Data.csproj",
+        "projectName": "WMS.Data",
+        "projectPath": "C:\\Users\\hjha0\\Source\\Repos\\WMSRepo\\WMSApp\\Libraries\\WMA.Data\\WMS.Data.csproj",
+        "packagesPath": "C:\\Users\\hjha0\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\hjha0\\Source\\Repos\\WMSRepo\\WMSApp\\Libraries\\WMA.Data\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\hjha0\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "C:\\Users\\hjha0\\Source\\Repos\\WMSRepo\\WMSApp\\Domain\\Domain.csproj": {
+                "projectPath": "C:\\Users\\hjha0\\Source\\Repos\\WMSRepo\\WMSApp\\Domain\\Domain.csproj"
+              },
+              "C:\\Users\\hjha0\\Source\\Repos\\WMSRepo\\WMSApp\\Libraries\\WMS.Core\\WMS.Core.csproj": {
+                "projectPath": "C:\\Users\\hjha0\\Source\\Repos\\WMSRepo\\WMSApp\\Libraries\\WMS.Core\\WMS.Core.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "dependencies": {
+            "Microsoft.AspNetCore.Identity.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[6.0.5, )"
+            },
+            "Microsoft.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[6.0.5, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.301\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\hjha0\\Source\\Repos\\WMSRepo\\WMSApp\\Libraries\\WMS.Core\\WMS.Core.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\hjha0\\Source\\Repos\\WMSRepo\\WMSApp\\Libraries\\WMS.Core\\WMS.Core.csproj",
+        "projectName": "WMS.Core",
+        "projectPath": "C:\\Users\\hjha0\\Source\\Repos\\WMSRepo\\WMSApp\\Libraries\\WMS.Core\\WMS.Core.csproj",
+        "packagesPath": "C:\\Users\\hjha0\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\hjha0\\Source\\Repos\\WMSRepo\\WMSApp\\Libraries\\WMS.Core\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\hjha0\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "dependencies": {
+            "AutoMapper.Extensions.Microsoft.DependencyInjection": {
+              "target": "Package",
+              "version": "[11.0.0, )"
+            },
+            "Autofac.Extensions.DependencyInjection": {
+              "target": "Package",
+              "version": "[7.2.0, )"
+            },
+            "Humanizer": {
+              "target": "Package",
+              "version": "[2.14.1, )"
+            },
+            "Microsoft.AspNetCore.Mvc.NewtonsoftJson": {
+              "target": "Package",
+              "version": "[6.0.5, )"
+            },
+            "Newtonsoft.Json": {
+              "target": "Package",
+              "version": "[13.0.1, )"
+            },
+            "System.IO.FileSystem.AccessControl": {
+              "target": "Package",
+              "version": "[5.0.0, )"
+            },
+            "System.Linq.Async": {
+              "target": "Package",
+              "version": "[6.0.1, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.301\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

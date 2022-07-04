@@ -1,0 +1,184 @@
+is_global = true
+build_property.TargetFramework = net6.0
+build_property.TargetPlatformMinVersion = 
+build_property.UsingMicrosoftNETSdkWeb = true
+build_property.ProjectTypeGuids = 
+build_property.InvariantGlobalization = 
+build_property.PlatformNeutralAssembly = 
+build_property._SupportedPlatformList = Linux,macOS,Windows
+build_property.RootNamespace = WMSWebApp
+build_property.RootNamespace = WMSWebApp
+build_property.ProjectDir = C:\Users\hjha0\Source\Repos\WMSRepo\WMSApp\WMSWebApp\
+build_property.RazorLangVersion = 6.0
+build_property.SupportLocalizedComponentNames = 
+build_property.GenerateRazorMetadataSourceChecksumAttributes = 
+build_property.MSBuildProjectDirectory = C:\Users\hjha0\Source\Repos\WMSRepo\WMSApp\WMSWebApp
+build_property._RazorSourceGeneratorDebug = 
+
+[C:/Users/hjha0/Source/Repos/WMSRepo/WMSApp/WMSWebApp/Views/Account/List.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWNjb3VudFxMaXN0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/hjha0/Source/Repos/WMSRepo/WMSApp/WMSWebApp/Views/Account/Login.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWNjb3VudFxMb2dpbi5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/hjha0/Source/Repos/WMSRepo/WMSApp/WMSWebApp/Views/Account/Register.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWNjb3VudFxSZWdpc3Rlci5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/hjha0/Source/Repos/WMSRepo/WMSApp/WMSWebApp/Views/Branch/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQnJhbmNoXENyZWF0ZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/hjha0/Source/Repos/WMSRepo/WMSApp/WMSWebApp/Views/Branch/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQnJhbmNoXERldGFpbHMuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/hjha0/Source/Repos/WMSRepo/WMSApp/WMSWebApp/Views/Branch/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQnJhbmNoXEVkaXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/hjha0/Source/Repos/WMSRepo/WMSApp/WMSWebApp/Views/Branch/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQnJhbmNoXEluZGV4LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/hjha0/Source/Repos/WMSRepo/WMSApp/WMSWebApp/Views/Companies/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ29tcGFuaWVzXENyZWF0ZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/hjha0/Source/Repos/WMSRepo/WMSApp/WMSWebApp/Views/Companies/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ29tcGFuaWVzXERldGFpbHMuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/hjha0/Source/Repos/WMSRepo/WMSApp/WMSWebApp/Views/Companies/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ29tcGFuaWVzXEVkaXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/hjha0/Source/Repos/WMSRepo/WMSApp/WMSWebApp/Views/Companies/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ29tcGFuaWVzXEluZGV4LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/hjha0/Source/Repos/WMSRepo/WMSApp/WMSWebApp/Views/Customer/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ3VzdG9tZXJcQ3JlYXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/hjha0/Source/Repos/WMSRepo/WMSApp/WMSWebApp/Views/Customer/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ3VzdG9tZXJcRGV0YWlscy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/hjha0/Source/Repos/WMSRepo/WMSApp/WMSWebApp/Views/Customer/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ3VzdG9tZXJcRWRpdC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/hjha0/Source/Repos/WMSRepo/WMSApp/WMSWebApp/Views/Customer/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ3VzdG9tZXJcSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/hjha0/Source/Repos/WMSRepo/WMSApp/WMSWebApp/Views/Grn/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcR3JuXENyZWF0ZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/hjha0/Source/Repos/WMSRepo/WMSApp/WMSWebApp/Views/Grn/List.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcR3JuXExpc3QuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/hjha0/Source/Repos/WMSRepo/WMSApp/WMSWebApp/Views/Home/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/hjha0/Source/Repos/WMSRepo/WMSApp/WMSWebApp/Views/Home/Privacy.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxQcml2YWN5LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/hjha0/Source/Repos/WMSRepo/WMSApp/WMSWebApp/Views/Intrasit/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSW50cmFzaXRcQ3JlYXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/hjha0/Source/Repos/WMSRepo/WMSApp/WMSWebApp/Views/Intrasit/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSW50cmFzaXRcSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/hjha0/Source/Repos/WMSRepo/WMSApp/WMSWebApp/Views/Intrasit/_InTransitList.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSW50cmFzaXRcX0luVHJhbnNpdExpc3QuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/hjha0/Source/Repos/WMSRepo/WMSApp/WMSWebApp/Views/Item/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSXRlbVxDcmVhdGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/hjha0/Source/Repos/WMSRepo/WMSApp/WMSWebApp/Views/Item/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSXRlbVxEZXRhaWxzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/hjha0/Source/Repos/WMSRepo/WMSApp/WMSWebApp/Views/Item/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSXRlbVxFZGl0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/hjha0/Source/Repos/WMSRepo/WMSApp/WMSWebApp/Views/Item/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSXRlbVxJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/hjha0/Source/Repos/WMSRepo/WMSApp/WMSWebApp/Views/PickSlip/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUGlja1NsaXBcSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/hjha0/Source/Repos/WMSRepo/WMSApp/WMSWebApp/Views/Po/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUG9cQ3JlYXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/hjha0/Source/Repos/WMSRepo/WMSApp/WMSWebApp/Views/Po/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUG9cSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/hjha0/Source/Repos/WMSRepo/WMSApp/WMSWebApp/Views/Shared/Error.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXEVycm9yLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/hjha0/Source/Repos/WMSRepo/WMSApp/WMSWebApp/Views/Shared/Notifications.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXE5vdGlmaWNhdGlvbnMuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/hjha0/Source/Repos/WMSRepo/WMSApp/WMSWebApp/Views/Shared/_Layout.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9MYXlvdXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/hjha0/Source/Repos/WMSRepo/WMSApp/WMSWebApp/Views/Shared/_ValidationScriptsPartial.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/hjha0/Source/Repos/WMSRepo/WMSApp/WMSWebApp/Views/SubItem/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU3ViSXRlbVxDcmVhdGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/hjha0/Source/Repos/WMSRepo/WMSApp/WMSWebApp/Views/SubItem/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU3ViSXRlbVxEZXRhaWxzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/hjha0/Source/Repos/WMSRepo/WMSApp/WMSWebApp/Views/SubItem/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU3ViSXRlbVxFZGl0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/hjha0/Source/Repos/WMSRepo/WMSApp/WMSWebApp/Views/SubItem/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU3ViSXRlbVxJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/hjha0/Source/Repos/WMSRepo/WMSApp/WMSWebApp/Views/Warehouse/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcV2FyZWhvdXNlXENyZWF0ZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/hjha0/Source/Repos/WMSRepo/WMSApp/WMSWebApp/Views/Warehouse/CreateArea.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcV2FyZWhvdXNlXENyZWF0ZUFyZWEuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/hjha0/Source/Repos/WMSRepo/WMSApp/WMSWebApp/Views/Warehouse/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcV2FyZWhvdXNlXEluZGV4LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/hjha0/Source/Repos/WMSRepo/WMSApp/WMSWebApp/Views/_ViewImports.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/hjha0/Source/Repos/WMSRepo/WMSApp/WMSWebApp/Views/_ViewStart.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdTdGFydC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
